@@ -9,6 +9,7 @@ This tool transforms the [2025 Crossref Public Data File](https://www.crossref.o
 The resulting dataset is publicly available on the I3 Bigquery Data repository [here](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1snber-i3!2scrossref!3scr_2025)
 
 Join our mailing group: [https://groups.google.com/g/i3-bigquery](https://groups.google.com/g/i3-bigquery)
+
 Visit our website: [https://iii.pubpub.org/](https://iii.pubpub.org/)
 
 ## Project Structure
