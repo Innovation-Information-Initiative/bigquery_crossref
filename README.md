@@ -1,5 +1,3 @@
-# Crossref Data Processing Project
-
 This tool transforms the [2025 Crossref Public Data File](https://www.crossref.org/blog/2025-public-data-file-now-available/) into a BigQuery-compatible format. The processor handles several critical transformations:
 
 - Converts date structures into ISO-standard date strings
