@@ -1,0 +1,7 @@
+# Ignore all files in subdirectories
+processed/*
+raw/*
+
+# But keep the directory itself
+!processed/.gitkeep 
+!raw/.gitkeep 
